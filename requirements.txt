@@ -8,3 +8,4 @@ cmsplugin-twitter
 django-paypal
 django-twitter
 django-twitterflux
+django-twitter-feed
