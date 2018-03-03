@@ -6,6 +6,7 @@ from django.shortcuts import render
 
 def home(request):
     packages = [
+	{'name':'django-twitterbootstrap-form', 'url': 'http://pypi.python.org/pypi/django-twitterbootstrap-form/0.4.0'},
 	{'name':'django-twitter-feed', 'url': 'http://pypi.python.org/pypi/django-twitter-feed/0.2'},
 	{'name':'django-twitterflux', 'url': 'http://pypi.python.org/pypi/django-twitterflux/0.0.3'},
 	{'name':'django-twitter', 'url': 'http://pypi.python.org/pypi/django-twitter/0.1.0'},

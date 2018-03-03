@@ -9,3 +9,4 @@ django-paypal
 django-twitter
 django-twitterflux
 django-twitter-feed
+django-twitterbootstrap-form
