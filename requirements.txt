@@ -10,3 +10,4 @@ django-twitter
 django-twitterflux
 django-twitter-feed
 django-twitterbootstrap-form
+django-twitter-api
